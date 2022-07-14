@@ -1,0 +1,15 @@
+2022-06-02 23:22:30,945:INFO:Current libzmq version is 4.3.4
+2022-06-02 23:22:30,945:INFO:Current  pyzmq version is 23.0.0
+2022-06-02 23:22:30,945:INFO:pub_port not specified, not setting-up publisher
+2022-06-02 23:22:30,945:INFO:Subscriber port is specified
+2022-06-02 23:22:30,955:INFO:Creating ZeroMQ context on: tcp://127.0.0.1:5570
+2022-06-02 23:22:31,015:INFO:Bind to tcp://127.0.0.1:5570 successful
+2022-06-02 23:22:31,015:INFO:Write timestamps to: logging\timestamps_sub.csv
+2022-06-02 23:22:31,015:INFO:Subscriber socket set-up complete
+2022-06-02 23:22:31,015:INFO:deal_port not specified, not setting-up dealer
+2022-06-02 23:22:31,015:INFO:deal2_port not specified, not setting-up dealer
+2022-06-02 23:22:31,015:INFO:deal3_port not specified, not setting-up dealer
+2022-06-02 23:22:31,015:INFO:rout_port not specified, not setting-up router
+2022-06-02 23:22:31,015:INFO:ZeroMQ sockets successfully set-up
+
+2022-06-02 23:22:31,015:INFO:Awaiting FACS data...

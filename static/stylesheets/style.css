@@ -1,0 +1,28 @@
+#videoElement {
+  position: fixed;
+  top: 120px;
+  left: 30px;
+  border-radius: 0px;
+  background: #136981;
+  padding: 5px;
+  padding-top: 1px;
+  margin: 1px;
+  width: 600px;
+  height: 460px;
+}
+
+.heading {
+  position: fixed;
+  top: 0px;
+  
+}
+
+#emotion {
+    color: white;
+    position: fixed;
+    bottom: 40px;
+}
+
+body {
+  background-color: #1c1f2e;
+}
